@@ -13,9 +13,7 @@ This project is a **Plant Disease Recognition System** built using **TensorFlow*
 - [Usage](#usage)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Kaggle Notebook](#kaggle-notebook)
 ---
 
 ## Introduction
@@ -86,3 +84,10 @@ The model achieved high accuracy in identifying plant diseases. It is capable of
 - **Corn Gray Leaf Spot**
 - **Tomato Bacterial Spot**
 - **And many more...**
+
+---
+
+## Kaggle Notebook
+
+You can also check out the **Plant Disease Detection System** notebook on Kaggle:  
+[Plant Disease Detection System on Kaggle](https://www.kaggle.com/code/kirolosayman/plant-disease-detection-system-ll)
