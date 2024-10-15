@@ -55,35 +55,6 @@ To get started with this project, follow these steps:
 - Pillow (for image processing)
 - NumPy
 
-### Steps
-
-1. **Clone the Repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/plant-disease-recognition-system.git
-    cd plant-disease-recognition-system
-    ```
-
-2. **Install the Required Packages**:
-
-    Create a virtual environment (optional but recommended):
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-    Install the dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Download Pre-trained Model**:
-
-    Download the pre-trained model file `trained_plant_disease_model.keras` and place it in the project directory.
-
----
 
 ## Usage
 
@@ -115,21 +86,3 @@ The model achieved high accuracy in identifying plant diseases. It is capable of
 - **Corn Gray Leaf Spot**
 - **Tomato Bacterial Spot**
 - **And many more...**
-
----
-
-## Contributing
-
-We welcome contributions! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
